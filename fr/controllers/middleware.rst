@@ -19,7 +19,7 @@ stack dans qui tire parti des interfaces PSR-7 request et response. En tirant
 parti du standard PSR-7, vous pouvez utilisez tout middleware compatible avec
 PSR-7 qui se trouve sur `Packagist <https://packagist.org>`__.
 
-CakePHP fournit plusieurs middlewares:
+CakePHP fournit plusieurs middlewaressss:
 
 * ``Cake\Error\Middleware\ErrorHandlerMiddleware`` traps exceptions from the
   wrapped middleware and renders an error page using the
